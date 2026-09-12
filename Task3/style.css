@@ -1,0 +1,36 @@
+.body{
+    background-color: rgb(65, 51, 10);
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color: aliceblue;
+}
+p{
+    font-style: italic;
+    color: white;
+}
+#para{
+    color: green;
+}
+span{
+    color: red;
+}
+strong{
+    color: black;
+    font-size: x-large;
+}
+ul li:nth-child(1) a{
+    color: chocolate;
+}
+ul li:nth-child(2) a{
+    color: darkolivegreen;
+}
+ol li:nth-child(2)
+{
+    color: blue;
+}
+ol li:nth-child(4){
+    color: pink;
+}
