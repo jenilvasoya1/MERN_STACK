@@ -1,0 +1,1 @@
+This task is about the image's diffrent type of style like colors , margin , padding , weight,hight,size etc.
